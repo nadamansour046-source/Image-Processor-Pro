@@ -19,3 +19,12 @@ pip install -r requirements.txt
 
 # 2. تشغيل التطبيق
 python image_processor.py
+التقنيات المستخدمة
+
+Python
+OpenCV
+Pillow (PIL)
+Tkinter / ttk
+
+صور البرنامج
+تم تطوير هذا المشروع بواسطة nadamsour046-source
